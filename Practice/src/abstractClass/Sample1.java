@@ -1,0 +1,12 @@
+package abstractClass;
+
+abstract public class Sample1 
+{
+	abstract void m1();
+	
+	public void m2()
+	{
+		System.out.println("Example of Abstract class.");
+	}
+	public abstract void m3();
+}

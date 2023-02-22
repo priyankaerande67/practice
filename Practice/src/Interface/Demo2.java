@@ -1,0 +1,14 @@
+package Interface;
+
+public class Demo2 implements Demo1
+{
+	public void m1() 
+	{
+		System.out.println("This is the example of Interface");
+	}
+	
+	public void m2()
+	{
+		System.out.println("This is the example of Interface");
+	}
+}

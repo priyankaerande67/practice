@@ -1,0 +1,10 @@
+
+package inheritance;
+
+public class Sub_Singlelevel 
+{
+	public void m2()
+	{
+		System.out.println("This is the sub class");
+	}
+}

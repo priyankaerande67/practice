@@ -1,0 +1,9 @@
+package inheritance;
+
+public class Education {
+
+	public void department()
+	{
+		System.out.println("This is the IT Department.");
+	}
+}

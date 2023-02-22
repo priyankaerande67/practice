@@ -1,0 +1,19 @@
+package abstractClass;
+
+public class Sample2 extends Sample1
+{
+	public void m3()
+	{
+		System.out.println("compelte abstract method m3 in concreate class");
+	}
+	public void m4() {
+		System.out.println("complete abstract method m4 in concrete class");
+	}
+	@Override
+	void m1() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	
+}
